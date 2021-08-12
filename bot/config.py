@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1851108088:AAEpt_s2bC-42X3vRDkevTcLnSEPbLz_2Jc"
+    APP_ID = "3576094"
+    API_HASH = "c3be836efce12c191d48fec44d0d99e3"
+    DATABASE_URL = "postgres://xbezwzvduepjfa:57047b16d2b1c8093d55b3719ed87104ed6f5868bf16625d391c00998afed12c@ec2-44-196-44-90.compute-1.amazonaws.com:5432/d4fukf16ltofqt"
+    SUDO_USERS = "#1250706300" Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/PayTMLootByFree"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
